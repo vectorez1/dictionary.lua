@@ -1,2 +1,2 @@
 # dictionary.lua
- A simple Implementation of a Typed Dictionary based on C# and Java
+ A simple Implementation of a Typed Dictionary inspired by C# and Java
